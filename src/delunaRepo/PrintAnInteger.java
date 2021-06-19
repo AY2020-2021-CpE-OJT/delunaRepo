@@ -6,7 +6,7 @@ public class PrintAnInteger {
 	    public static void main(String[] args) {
 
 	        Scanner reader = new Scanner(System.in);
-	        System.out.print("Enter a number: ");
+	        System.out.print("Enter a digit: ");
 
 	        int number = reader.nextInt();
 
