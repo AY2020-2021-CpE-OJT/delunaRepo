@@ -5,10 +5,10 @@ public class PrintAnInteger {
 	
 	    public static void main(String[] args) {
 
-	        Scanner read = new Scanner(System.in);
+	        Scanner run = new Scanner(System.in);
 	        System.out.print("Enter a digit: ");
 
-	        int digit = read
+	        int digit = run
 	        		.nextInt();
 
 	        System.out.println("You entered: " + number);
