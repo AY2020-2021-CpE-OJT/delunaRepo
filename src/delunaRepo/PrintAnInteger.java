@@ -8,7 +8,7 @@ public class PrintAnInteger {
 	        Scanner read = new Scanner(System.in);
 	        System.out.print("Enter a digit: ");
 
-	        int number = read
+	        int digit = read
 	        		.nextInt();
 
 	        System.out.println("You entered: " + number);
